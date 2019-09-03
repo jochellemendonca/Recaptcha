@@ -1,2 +1,2 @@
 # Recaptcha
-Adding in Recaptcha v3 in laravel
+Adding Recaptcha v3 in laravel
